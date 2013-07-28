@@ -1,4 +1,5 @@
 require 'prawn'
+module Prawn::Svg; end
 require 'prawn/svg/color'
 require 'prawn/svg/extension'
 require 'prawn/svg/interface'
